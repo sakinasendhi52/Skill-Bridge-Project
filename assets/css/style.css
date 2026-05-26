@@ -1,0 +1,19 @@
+.bg-primary{
+    background-color: rgb(247,247,248) !important;
+}
+.secondary-color{
+    background-color: rgb(255,149,0) !important;
+}
+.secondary-text{
+    color: rgb(255,149,0) !important;
+}
+.icon-container{
+    background-color: rgb(255,244,229);
+}
+.mt-6{
+    margin-top: 80px;
+}
+.btn-check{
+    border:none;
+    
+}
